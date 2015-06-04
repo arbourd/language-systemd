@@ -1,0 +1,6 @@
+'.source.service':
+  'editor':
+    'commentStart': '# '
+'.text.service':
+  'editor':
+    'foldEndPattern': '^---'

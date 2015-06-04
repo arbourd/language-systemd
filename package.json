@@ -1,0 +1,17 @@
+{
+  "name": "language-systemd",
+  "version": "0.1.0",
+  "description": "Systemd configuration support in Atom",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arbourd/language-systemd.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arbourd/language-systemd/issues"
+  }
+}
