@@ -1,7 +1,9 @@
 'scopeName': 'source.service'
 'name': 'Systemd Service'
 'fileTypes': [
-  'service'
+  'service',
+  'timer',
+  'socket'
 ]
 'patterns': [
   {
