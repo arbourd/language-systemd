@@ -1,6 +1,6 @@
 {
   "name": "language-systemd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Systemd configuration support in Atom",
   "engines": {
     "atom": "*",
